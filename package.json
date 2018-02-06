@@ -1,0 +1,24 @@
+{
+  "name": "ciaranotclara.com",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-app-rewire-styled-components": "^3.0.0",
+    "react-app-rewired": "^1.4.1",
+    "react-dom": "^16.2.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.1.0",
+    "styled-components": "^3.1.6"
+  },
+  "scripts": {
+    "build": "react-app-rewired build",
+    "eject": "react-scripts eject",
+    "flow": "flow",
+    "start": "react-app-rewired start",
+    "test": "react-app-rewired test --env=jsdom"
+  },
+  "devDependencies": {
+    "flow-bin": "^0.64.0"
+  }
+}
